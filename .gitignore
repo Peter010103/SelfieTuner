@@ -1,3 +1,5 @@
 /mediapipe*
 
-=*
+*swp
+*.swo
+*.pyc
