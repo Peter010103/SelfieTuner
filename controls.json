@@ -16,7 +16,7 @@
   ],
   "Contrast": [
     0.0,
-    32.0,
+    2.0,
     0
   ],
   "Brightness": [
@@ -30,9 +30,9 @@
     0
   ],
   "ColourGains": [
-    0.0,
-    32.0,
-    0
+    [0.0],
+    [32.0],
+    [0]
   ],
   "AwbEnable": [
     false,
@@ -66,7 +66,7 @@
   ],
   "AeMeteringMode": [
     0,
-    3,
+    2,
     0
   ],
   "AnalogueGain": [
